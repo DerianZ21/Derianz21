@@ -8,7 +8,7 @@
         </a>
     </div>
 </div>
-
+<hr/>
 <div id="icons">
     <h2 align="left">Technologies and tools:</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" title="HTML5" height=45px width=45px />
@@ -22,5 +22,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" title="Angular" height=45px width=45px />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="Visual Studio Code" height=45px width=45px />
 </div>
+<hr/>
+<div id="stats">
+    <h2 align="left">my stats:</h2>
+</div>
+
+![](https://github-readme-stats.vercel.app/api?username=derianz21&show_icons=true&theme=tokyonight)
 
 
